@@ -8,3 +8,6 @@ Frontend Roadmap for Push devs
   * Semantic HTML
   * SEO
   * Accesibility
+
+2. Git
+  * [The basics](/git)
